@@ -15,3 +15,5 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
 
 5) As we have seen there are three different categories ,the planets can be classified then we start with all features and
    then remove features that have liitle weight.
+
+6) Avoided linear regression, this is a classification problem and start with logistic classification and selected features columns.
