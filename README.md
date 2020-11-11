@@ -19,3 +19,6 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
 6) Avoided linear regression, this is a classification problem and start with logistic classification and selected features columns.
 
 7) Create a Train Test Split from sklearn.model_selection. 
+
+8) Pre-processing:
+ - Scale the data using the MinMaxScaler and perform some feature selection.
