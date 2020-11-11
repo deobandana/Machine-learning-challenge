@@ -22,3 +22,5 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
 
 8) Pre-processing:
  - Scale the data using the MinMaxScaler and perform some feature selection.
+
+9) Train the Model by using logistic regression.
