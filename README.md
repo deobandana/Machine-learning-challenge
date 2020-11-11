@@ -17,3 +17,5 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
    then remove features that have liitle weight.
 
 6) Avoided linear regression, this is a classification problem and start with logistic classification and selected features columns.
+
+7) Create a Train Test Split from sklearn.model_selection. 
