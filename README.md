@@ -24,3 +24,5 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
  - Scale the data using the MinMaxScaler and perform some feature selection.
 
 9) Train the Model by using logistic regression.
+
+10) Hyperparameter Tuning ,by using GridSearchCV to tune the model's parameters.
