@@ -26,3 +26,5 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
 9) Train the Model by using logistic regression.
 
 10) Hyperparameter Tuning ,by using GridSearchCV to tune the model's parameters.
+
+11) Finally save the model .
