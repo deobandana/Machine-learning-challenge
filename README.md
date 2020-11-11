@@ -10,3 +10,5 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
 2) Source:[Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results) = exoplanet_data.csv as given.
 
 3) Read the csv data and after then clean the data.
+
+4) After then seeing  at confirmed as true and false positives as false (1 and 0) and remove all candidate planets.
