@@ -12,3 +12,6 @@ the NASA Kepler space telescope has been out on a planet-hunting mission to disc
 3) Read the csv data and after then clean the data.
 
 4) After then seeing  at confirmed as true and false positives as false (1 and 0) and remove all candidate planets.
+
+5) As we have seen there are three different categories ,the planets can be classified then we start with all features and
+   then remove features that have liitle weight.
