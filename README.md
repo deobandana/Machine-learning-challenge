@@ -10,7 +10,7 @@ Source:[Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-sear
 
 steps involve: 
 
---> Reading and clening the csv data.
+--> Reading and cleaning the csv data.
 
 --> classifing the planets in three different categories and removing features that having liitle weight.
 
