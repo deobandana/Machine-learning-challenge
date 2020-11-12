@@ -4,29 +4,25 @@
 
 -- Assumptions and Findings.
 
-1) As given in background over a period of nine years in deep space, 
-the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
+This Assignment I have created machine learning models capable of classifying candidate exoplanets from the raw dataset obtained by the NASA Kepler space telescope .It was out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
-2) Source:[Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results) = exoplanet_data.csv as given.
+Source:[Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results) = exoplanet_data.csv as given.
 
-3) Read the csv data and after then clean the data.
+steps involve: 
 
-4) After then seeing  at confirmed as true and false positives as false (1 and 0) and remove all candidate planets.
+--> Reading and clening the csv data.
 
-5) As we have seen there are three different categories ,the planets can be classified then we start with all features and
-   then remove features that have liitle weight.
+--> classifing the planets in three different categories and removing features that having liitle weight.
 
-6) Avoided linear regression, this is a classification problem and start with logistic classification and selected features columns.
+--> Creating a Train Test Split from sklearn.model_selection. 
 
-7) Create a Train Test Split from sklearn.model_selection. 
+--> Pre-processing:
+ - Scaling the data using the MinMaxScaler and performing some feature selection.
 
-8) Pre-processing:
- - Scale the data using the MinMaxScaler and perform some feature selection.
+--> Training the Model by using logistic regression.
 
-9) Train the Model by using logistic regression.
+--> Hyperparameter Tuning ,by using GridSearchCV to tune the model's parameters.
 
-10) Hyperparameter Tuning ,by using GridSearchCV to tune the model's parameters.
-
-11) Finally save the model .
+--> Finally save the model .
 
     Please follow this link  to see https://github.com/deobandana/Machine-learning-challenge
